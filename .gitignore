@@ -2,7 +2,12 @@
 *.class
 
 # Log file
+logs
 *.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
 
 # BlueJ files
 *.ctxt
